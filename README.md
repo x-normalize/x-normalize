@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @x-normalize
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Programing Basic at SoftUni ! 
+- 🌱 I’m currently learning Programming Basics with Python(July - 2022)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me x-normalize@protonmail.com
 
