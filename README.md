@@ -14,3 +14,4 @@ I am currently a student at SoftUni University!
 | Course | Links |
 | --- | --- |
 | Programming Basics with Python | https://softuni.bg/apply | 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=x-normalize&theme=codeSTACKr&show_icons=true)
