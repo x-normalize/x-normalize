@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @x-normalize
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Programming Basics with Python(July - 2022)
+- 🌱 I’m currently learning Programming Basics with Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me x-normalize@proton.me
 
