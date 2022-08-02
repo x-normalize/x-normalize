@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @x-normalize
+- 👋 Hi, I’m @Yordan Nikolov
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Programming Basics with Python
 - 📫 How to reach me x-normalize@proton.me
