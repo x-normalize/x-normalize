@@ -4,4 +4,7 @@
 - 📫 How to reach me: x-normalize@proton.me
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=x-normalize&theme=codeSTACKr&show_icons=true) | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-normalize&layout=compact&hide_border=true" /></a> |
+### GitHub Stats
+
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=x-normalize&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-normalize&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
