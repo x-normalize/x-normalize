@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **x-normalize@proton.me**
 
-<h3 align="left">Connect with me:x-normalize@proton.me </h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
