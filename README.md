@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Programming-Basics-with-Python---July-2022**
+- 🔭 I’m currently working on **Programming Fundamentals with Python September 2022**
 
-- 🌱 I’m currently learning **Programming Basics with Python**
+- 🌱 I’m currently learning **Programming Fundamentals with Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/x-normalize](https://github.com/x-normalize)
 
