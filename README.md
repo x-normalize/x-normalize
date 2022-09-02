@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Programming Fundamentals with Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/x-normalize](https://github.com/x-normalize)
+- 👨‍💻 All of my projects are available at [https://github.com/x-normalize?tab=repositories](https://github.com/x-normalize?tab=repositories)
 
 - 📫 How to reach me **x-normalize@proton.me**
 
