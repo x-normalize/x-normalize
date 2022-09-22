@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **x-normalize@proton.me**
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **I think I'm funny**
 
 
 <h3 align="left">Languages and Tools:</h3>
