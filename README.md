@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yordan Nikolov</h1>
-<h3 align="center">I’m interested in Python, I’m currently learning Python and I have some experience with Linux and Ethical Hacking.</h3>
+<h3 align="center">I’m interested in Python and Software Quality Assurance, I’m currently learning Python in Software University and I have some experience with Linux and Ethical Hacking.</h3>
 
 
 
