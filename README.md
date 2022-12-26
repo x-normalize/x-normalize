@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Programming Fundamentals**
 
-- 🌱 I’m currently learning **Programming Fundamentals with Python**
+- 🌱 I’m currently learning **QA Basics - January  2023**
 
 - 👨‍💻 All of my projects are available at [https://github.com/x-normalize](https://github.com/x-normalize)
 
