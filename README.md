@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **QA Basics - January  2023**
 
-- 👨‍💻 All of my projects are available at [https://github.com/x-normalize](https://github.com/x-normalize)
-
 - 📫 How to reach me **x-normalize@proton.me**
 
 - ⚡ Fun fact **I think I'm funny**
