@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Yordan Nikolov</h1>
-<h3 align="left">I am a dedicated student at Telerik Academy Alpha QA, with a passion for software development and a focus on Software Quality Assurance (QA) and Python. I am currently learning the new comprehensive QA Engineering Program in Software University(SoftUni), and am eager to expand my knowledge and skills in the field. Additionally, I have some experience working with Linux, providing me with a solid foundation in computer science. My goal is to continue learning and growing as a QA engineer, and to produce high-quality software that meets user needs.</h3>
+<h3 align="left">I am a dedicated student at Telerik Academy Alpha QA, with a passion for software development and a focus on Software Quality Assurance (QA) and Python. I am eager to expand my knowledge and skills in the field. Additionally, I have some experience working with Linux, providing me with a solid foundation in computer science. My goal is to continue learning and growing as a QA engineer, and to produce high-quality software that meets user needs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x-normalize&label=Profile%20views&color=0e75b6&style=flat" alt="x-normalize" /> </p>
 
