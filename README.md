@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Everything**
 
-- 📫 How to reach me **x-normalize@proton.me**
+- 📫 How to reach me **yordan.nikolov1@pm.me**
 
 - ⚡ Fun fact **I think i am funny**
 
